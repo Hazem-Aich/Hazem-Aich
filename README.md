@@ -3,7 +3,7 @@
 
 <hr size="4" width="30%" color="black">  
 
-## I'm a Teleinformatics Engineering Student and CHESS instructor !
+## I'm a Teleinformatics Engineering Student  !
 
 - 🌱 I’m currently learning Front-end development 🤣
 - 👯 I’m looking for PFE internship.
@@ -15,7 +15,7 @@
 
 [<img align="center" alt="Hazem AICH  | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-[![Linkedin: Hazem Aich](https://img.shields.io/badge/-firasfekih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/Hazemaich/)
+[![Linkedin: Hazem Aich](https://img.shields.io/badge/-Hazem Aich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/Hazem-aich/)
 
 [![GitHub FirasFekih](https://img.shields.io/github/followers/FirasFekih?label=follow&style=social)](https://github.com/Hazem-aich)
 <br>
