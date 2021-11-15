@@ -15,9 +15,9 @@
 
 [<img align="center" alt="Hazem AICH  | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-[![Linkedin: firasfekih](https://img.shields.io/badge/-firasfekih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/firasfekih/)
+[![Linkedin: Hazem Aich](https://img.shields.io/badge/-firasfekih-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/Hazemaich/)
 
-[![GitHub FirasFekih](https://img.shields.io/github/followers/FirasFekih?label=follow&style=social)](https://github.com/FirasFekih)
+[![GitHub FirasFekih](https://img.shields.io/github/followers/FirasFekih?label=follow&style=social)](https://github.com/Hazem-aich)
 <br>
 
 ### Languages and Tools :
