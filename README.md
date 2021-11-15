@@ -15,7 +15,7 @@
 
 [<img align="center" alt="Hazem AICH  | gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
-[![Linkedin: Hazem Aich](https://img.shields.io/badge/-Hazem Aich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/Hazem-aich/)
+[![Linkedin: Hazem Aich](https://img.shields.io/badge/-HazemAich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/Hazem-aich/)
 
 [![GitHub FirasFekih](https://img.shields.io/github/followers/FirasFekih?label=follow&style=social)](https://github.com/Hazem-aich)
 <br>
