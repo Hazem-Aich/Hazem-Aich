@@ -6,7 +6,7 @@
 ## I'm a Teleinformatics Engineering Student  !
 
 - 🌱 I’m currently learning Front-end development 🤣
-- 👯 I’m looking for PFE internship.
+- 
 - 🥅 2022 Goals : Finish my studies and get a job!
 - ⚡ Hobbies : I love Football, Chess and playing Harmonica 🤣
 
