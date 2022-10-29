@@ -3,10 +3,10 @@
 
 <hr size="4" width="30%" color="black">  
 
-## I'm a Teleinformatics Engineer  !
+## I'm a Teleinformatics Engineering Student  !
 
 - 🌱 I’m currently learning Front-end development 🤣
-
+- 👯 I’m looking for PFE internship.
 - 🥅 2022 Goals : Finish my studies and get a job!
 - ⚡ Hobbies : I love Football, Chess and playing Harmonica 🤣
 
@@ -17,6 +17,8 @@
 
 [![Linkedin: Hazem Aich](https://img.shields.io/badge/-HazemAich-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/firasfekih/)](https://www.linkedin.com/in/Hazem-aich/)
 
+[![GitHub FirasFekih](https://img.shields.io/github/followers/FirasFekih?label=follow&style=social)](https://github.com/Hazem-aich)
+<br>
 
 ### Languages and Tools :
 
@@ -45,7 +47,7 @@
 <br>
 <br>
 <a href="https://github.com/Hazem-Aich">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=FirasFekih&show_icons=true&theme=light&line_height=27" alt="Github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=HAZEM AICH&show_icons=true&theme=light&line_height=27" alt="Github stats"/>
 </a>
 
 [linkedin]: https://linkedin.com/in/hazemaich
