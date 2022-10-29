@@ -3,7 +3,7 @@
 
 <hr size="4" width="30%" color="black">  
 
-## I'm a Teleinformatics Engineering Student  !
+## I'm a Teleinformatics Engineer  !
 
 - 🌱 I’m currently learning Front-end development 🤣
 - 👯 I’m looking for PFE internship.
@@ -35,20 +35,6 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br><br>
-
-
-### Statistics :
- 
-
-<br>
-  <a href="https://github.com/Hazem-Aich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirasFekih&theme=light&hide_langs_below=1" />
-</a>
-<br>
-<br>
-<a href="https://github.com/Hazem-Aich">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=HAZEM AICH&show_icons=true&theme=light&line_height=27" alt="Github stats"/>
-</a>
 
 [linkedin]: https://linkedin.com/in/hazemaich
 [gmail]: https://myaccount.google.com/?gar=1
