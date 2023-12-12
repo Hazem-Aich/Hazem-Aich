@@ -1,4 +1,3 @@
-
 ### Hi there, I'm Hazem 👋 
 
 <hr size="4" width="30%" color="black">  
@@ -6,7 +5,7 @@
 ## I'm a Software Engineer  !
 
 - 🌱 I’m currently learning Front-end development 🤣
-- 🥅 2022 Goals : Finish my studies and get a job!
+- 🥅 2024 Goals :get a job!
 - ⚡ Hobbies : I love Football, Chess and playing Harmonica 🤣
 
 ### Connect with me :   
