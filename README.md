@@ -5,8 +5,7 @@
 ## I'm a Software Engineer  !
 
 - 🌱 I’m currently learning Front-end development 🤣
-- 🥅 2024 Goals :get a job!
-- ⚡ Hobbies : I love Football, Chess and playing Harmonica 🤣
+ - ⚡ Hobbies : I love Football, Chess and playing Harmonica 🤣
 
 ### Connect with me :   
 
