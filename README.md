@@ -4,7 +4,7 @@
 
 ## I'm a Software Engineer  !
 
-- 🌱 I’m currently learning Front-end development 🤣
+- 🌱 I’m currently learning  Devops 🤣
  - ⚡ Hobbies : I love Football, Chess and playing Harmonica 🤣
 
 ### Connect with me :   
